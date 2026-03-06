@@ -1,0 +1,5 @@
+{
+  "name": "FridgeShare",
+  "description": "A community fridge management app to minimize food waste for shared living spaces.",
+  "requestFramePermissions": []
+}
